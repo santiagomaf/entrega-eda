@@ -1,3 +1,3 @@
 # Instrucciones de compilación 
 
-El código que se ejecutara sea tarea1.cpp, el cual esta sincronizado con un makefile, en la terminal solo se tendra que poner **make** y el código comenzará a correr, tambien se puede ver que hay dos códigos .py los cuales son ignorables, son solo para hacer los gráficos del informe. Todos los diccionarios se evaluaran en una solo corrida, esta todo configurado para que uno ponga **make** en la terminal y arrojara los datos, tener en cuenta que todo el código se demorara unas horas.
+El código que se ejecutara sea tarea1.cpp, el cual esta sincronizado con un makefile, en la terminal solo se tendra que poner **make** y el código comenzará a correr. Todos los diccionarios se evaluaran en una sola corrida, esta todo configurado para que uno ponga **make** en la terminal y arrojara los datos, tener en cuenta que todo el código se demorara unas horas.
